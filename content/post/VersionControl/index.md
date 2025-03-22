@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Version Control wit Git
 date: '2025-03-22'
 ---
@@ -28,4 +28,4 @@ Git is one of the essential skills for programmers. Learning Git can help me bet
 Next plan:
 Create a Git repository locally and try to use basic commands for version control. 
 Learn how to use code hosting platforms such as GitHub for remote collaboration. 
-In-depth study of advanced features of Git, such as rebase, stash, etc.
+In-depth study of advanced features of Git, such as rebase, stash, etc. -->
